@@ -18,8 +18,9 @@ A Python tool that discovers various types of parameters in web applications by 
 
 1. Ensure you have Python 3.6+ installed
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 Usage
 ```bash
 python parameter_finder.py <URL>
